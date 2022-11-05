@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\bin\Debug\RepositoryDemo_Factory.exe.config
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\bin\Debug\RepositoryDemo_Factory.exe
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\bin\Debug\RepositoryDemo_Factory.pdb
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\obj\Debug\RepositoryDemo_Factory.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\obj\Debug\RepositoryDemo_Factory.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\obj\Debug\RepositoryDemo_Factory.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\obj\Debug\RepositoryDemo_Factory.exe
+D:\R52\M2\Projects\11\RepositoryDemo_1270857\RepositoryDemo_Factory\obj\Debug\RepositoryDemo_Factory.pdb
